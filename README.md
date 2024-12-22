@@ -53,7 +53,7 @@ Make sure you have the following installed on your system:
    cd exploro-asg
 
 2. **Install Dependencies**
-       - **Frontend**
+   - **Frontend**
    ```bash
    cd Frontend
    yarn
@@ -70,7 +70,7 @@ Make sure you have the following installed on your system:
     JWT_SECRET=<your_jwt_secret_key>
    
 4. **Run the Application**
-       - **Backend**
+ - **Backend**
    ```bash
    cd Backend
    yarn dev
