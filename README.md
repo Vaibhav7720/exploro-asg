@@ -82,9 +82,13 @@ Make sure you have the following installed on your system:
 
 5. Open your browser and navigate to http://localhost:3000 to access the application.
 
-6. **Deployment**
+6. **Deployment :**
    This project is deployed using services like:
-- Railway(Backend)
-- Vercel (Frontend)
+     - Railway(Backend)
+     - Vercel (Frontend)
+
+7. **🛡 Security**
+      - All sensitive information like API keys and secrets are stored in .env files and excluded from version control using .gitignore.
+      - User authentication is handled securely using JWT tokens.
  
 
