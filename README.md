@@ -53,17 +53,17 @@ Make sure you have the following installed on your system:
    cd exploro-asg
 
 2. **Install Dependencies**
+   - **Frontend**
    ```bash
    cd Frontend
    yarn
-   yarn serve
-
+   
+   - **Backend**
    ```bash
    cd Backend
    yarn
-   yarn dev
 
-3. **Environment Variables**
+4. **Environment Variables**
    ```env
     Create a .env file in the Backend/ directory and add the following:
     MONGO_URI=<your_mongo_connection_string>
