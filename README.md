@@ -58,9 +58,16 @@ Make sure you have the following installed on your system:
    yarn
    yarn serve
 
- ```bash
+   ```bash
    cd Backend
    yarn
    yarn dev
+
+3. **Environment Variables**
+   ```env
+    Create a .env file in the Backend/ directory and add the following:
+    MONGO_URI=<your_mongo_connection_string>
+    JWT_SECRET=<your_jwt_secret_key>
+
 
 
