@@ -45,7 +45,7 @@ Make sure you have the following installed on your system:
 
 ---
 ## Approach
-To build this project, the following approach was taken:
+To build this project, I take this following approach:
 
 ### 1. **Requirement Analysis**
    - Identified the key features needed for a travel-related application.
@@ -75,7 +75,7 @@ To build this project, the following approach was taken:
 ### 6. **Testing and Debugging**
    - Tested the application locally to identify and resolve issues.
    - Verified API responses using tools like **Postman**.
-   - Debugged deployment issues using Railway and Netlify build logs.
+   - Debugged deployment issues using Railway and Vercel build logs.
 
 ---
 ### **Setup Instructions**
